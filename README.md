@@ -15,7 +15,8 @@ Key Activities:
 Key activities of Exploratory Data Analysis (EDA) on a Netflix dataset include:
 
 1. Data Cleaning: Handling missing values, correcting inconsistencies, and ensuring data is in a usable format.
-2. Data Visualization: Creating plots (e.g., histograms, bar charts, box plots, scatter plots) to visualize distributions, trends, and relationships within the data.
+2. Data Visualization: Creating plots (e.g., histograms, bar charts, box plots, scatter plots) to visualize distributions, trends, and relationships within the data
+
 3. Correlation Analysis:Identifying correlations between population figures across different years.
 
 Technologies used:
