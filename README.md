@@ -42,4 +42,8 @@ Key insights:
 7. User Engagement Patterns: Analyzing how different types of content (e.g., genres, release years) correlate with user engagement metrics like watch time, completion rates, or re-watches.
 
 8. Trend Identification:Detecting emerging trends in content types or viewer behavior that could influence future content strategies or platform features.
-   
+![Screenshot (44)](https://github.com/user-attachments/assets/535d63af-2531-4a2e-9d1f-4451a0f26677)
+![Screenshot (43)](https://github.com/user-attachments/assets/790bb923-b80a-4a00-8c48-185b083df444)
+![Screenshot (42)](https://github.com/user-attachments/assets/3e10eeba-4d11-47f2-b0d7-16d9a69354e5)
+
+
